@@ -1,0 +1,8 @@
+/* */
+p::selection {
+	color: white;
+}
+
+p::selection {
+	background: black;
+} 
